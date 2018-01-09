@@ -1,0 +1,6 @@
+name: sdss
+description: 'Module that pulls in data from SDSS'
+package: Custom
+type: module
+version: 1.0
+core: 8.x

@@ -1,0 +1,7 @@
+sdss.content:
+  path: '/sdss'
+  defaults:
+    _controller: '\Drupal\sdss\Controller\SDSSController::content'
+    _title: 'SDSS'
+  requirements:
+    _permission: 'access content'
